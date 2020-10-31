@@ -10,7 +10,7 @@ from chatterbot.conversation import Statement
 from chatterbot.trainers import ChatterBotCorpusTrainer
 
 #ai chan
-TOKEN = 'NzcwNzE1OTQ2MDE2MzA5MjU5.X5hnKA.7PEOAkN5NbBHaaSvI-OY5b9hfS0'
+TOKEN = 'token here'
 channel_name = 'ai-chan'
 
 
