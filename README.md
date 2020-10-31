@@ -3,8 +3,9 @@ Machine Learning Discord ChatBot
 
 ## 0x00 Invite
 
-[CLICK HERE](https://discord.com/api/oauth2/authorize?client_id=770715946016309259&permissions=88064&scope=bot) To invite AI CHAN to your server
-make a channel called ai-chan so it can chat :)
+[CLICK HERE](https://discord.com/api/oauth2/authorize?client_id=770715946016309259&permissions=88064&scope=bot) 
+
+To invite AI CHAN to your server and make a channel called ai-chan so it can chat :)
 
 ## 0x01 Install / Setup
 
