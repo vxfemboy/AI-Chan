@@ -10,8 +10,8 @@ from chatterbot.conversation import Statement
 from chatterbot.trainers import ChatterBotCorpusTrainer
 
 #ai chan
-TOKEN = 'token here'
-channel_name = 'ai-chan'
+TOKEN = 'token here' #put discord bot token here 
+channel_name = 'ai-chan' #dedicated channel name 
 
 
 def ignore_errors(func):
@@ -169,6 +169,7 @@ class ai_chan(discord.Client):
         #ChatterBotCorpusTrainer(self.chatbot).train(
         #    'chatterbot.corpus.english'
         #) #annoying useless datasets
+        #Better if you use your own
         self.last_messages = LastMessages()
 
         super().__init__(*args, **kwargs)
@@ -177,4 +178,4 @@ class ai_chan(discord.Client):
 if __name__ == '__main__':
     print('Starting AI Chan...')
     CLIENT = ai_chan()
-    CLIENT.run(TOKEN)#, bot=False) #selfbot usage for mass data collection shush
+    CLIENT.run(TOKEN)#, bot=False)
