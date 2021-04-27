@@ -40,6 +40,4 @@ python3 __init__.py
 
 Please report them in Issues
 
-Please buy me a beer or vodka
-
 ~Made with my half broken Computer~
