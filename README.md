@@ -1,13 +1,13 @@
 # AI CHAN
 Machine Learning Discord ChatBot
 
-## 0x00 Invite
+## Invite
 
 [CLICK HERE](https://discord.com/api/oauth2/authorize?client_id=770715946016309259&permissions=88064&scope=bot) 
 
 To invite AI CHAN to your server and make a channel called ai-chan so it can chat :)
 
-## 0x01 Install / Setup
+## Install / Setup
 
 Make sure to install the requirements by running:
 ````
@@ -29,14 +29,14 @@ https://discordapp.com/oauth2/authorize?client_id=CLIENTID&scope=bot
 ````
 invite the bot to your server
 
-## 0x02 Usage
+## Usage
 
 To run AI Chan:
 ````
 python3 __init__.py
 ````
 
-## 0x03 Bugs/Issues/Questions?
+## Bugs/Issues/Questions?
 
 Please report them in Issues
 
