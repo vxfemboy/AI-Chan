@@ -152,7 +152,7 @@ class ai_chan(discord.Client):
             print("Response: " + str(self._respond(message))) #logic 100
             async with message.channel.typing(): #typing too look realistic
                 await asyncio.sleep(2) #delay too look realistic
-                await message.channel.send(self._respond(message)) #Response
+                await message.reply(self._respond(message)) #Response
 
     async def on_ready(self):
         print(self.user, 'connected to Discord!')
