@@ -1,4 +1,4 @@
-ChatterBot==1.0.2
+ChatterBot==1.2.14
 discord.py==1.5.1
 textstat==0.6.2
 dataclasses==0.7
